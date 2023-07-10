@@ -4,8 +4,8 @@
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanmayk26" target="_blank"><img src="https://github.com/tanmayk26/tanmayk26/blob/main/images/linked-in-alt.svg" align="center" alt="tanmayk26" height="35" width="40" /></a>
-  &nbsp; &nbsp; <a href="mailto:ktanmay.27@gmail.com" target="_blank"><img align="top" src="https://github.com/tanmayk26/tanmayk26/blob/main/images/send-mail-2574 (1).png" alt="Mail" height="40" width="40" /></a> 
+<p><a href="https://github.com/tanmayk26" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/tanmayk26" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 
 
