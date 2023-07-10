@@ -2,7 +2,7 @@
 
 
 
-<h3 align="left">Connect with me on:</h3>
+<h3 align="left">Professional Profiles:</h3>
 <p align="left">
 <p><a href="https://github.com/tanmayk26" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/tanmayk26" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
