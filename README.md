@@ -15,9 +15,6 @@
 
 
 
-<div align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=tanmayk26" alt="tanmayk26"> 
-</div>
 <!--
 **tanmayk26/tanmayk26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
