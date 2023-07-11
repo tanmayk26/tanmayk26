@@ -1,15 +1,10 @@
 <h1><strong>Hi, I'm Tanmay</a></strong><img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" height="20px" width="20px"></h1>
 
-
-
-<h3 align="left">Professional Profiles:</h3>
 <p align="left">
 <p>
   <a href="https://github.com/tanmayk26" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/tanmayk26" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ktanmay@gwu.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
-  
 </p>
 
 
