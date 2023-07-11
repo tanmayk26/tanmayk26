@@ -15,7 +15,7 @@
 - ⛰ I enjoy playing chess, badminton, and hiking.
 
 
-<h3>I code with</h3>
+<h3>Code & Tools</h3>
 <p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" width="40" height="40" /> </a>
