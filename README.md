@@ -8,7 +8,7 @@
 </p>
 
 
-- 👯 Open to Data Scientist | Data Analyst | Data Engineering and other related roles
+- 👯 Open to Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer and other related roles
 - 🔭 I’m a Data Science Graduate Student at George Washington University, Washington D.C.
 - 👨🏽‍💻 I have 4 years of experience working in the field of Data Engineering & Data Analytics
 - 🌱 I have learned about Machine Learning, Data Mining, Data Warehousing, Statistics, Time Series Analysis & Modeling, and Cloud Computing.
@@ -24,6 +24,13 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="40"/> </a> 
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="35"/> </a> 
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" width="40" height="35"/> </a> 
+
+
+
+  
+
+  
 </p>
 
 
