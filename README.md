@@ -10,9 +10,8 @@
 
 - 👯 Open to Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer and other related roles
 - 🔭 I’m a Data Science Graduate Student at George Washington University, Washington D.C.
-- 👨🏽‍💻 I have 4 years of experience working in the field of Data Engineering & Data Analytics
-- 🌱 I have learned about Machine Learning, Data Mining, Data Warehousing, Statistics, Time Series Analysis & Modeling, and Cloud Computing.
-- 🌱 I’m currently learning NLP.
+- 👨🏽‍💻 I have 3.5 years of experience working in the field of Data Engineering & Data Analytics
+- 🌱 I have learned about Machine Learning, Data Mining, NLP, Data Warehousing, Statistics, Time Series Analysis & Modeling, and Cloud Computing.
 - ⛰ I enjoy playing chess, badminton, and hiking.
 
 
